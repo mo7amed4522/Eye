@@ -177,7 +177,7 @@ If you found this project helpful, please consider:
 
 [![GitHub](https://img.shields.io/badge/GitHub-mo7amed4522-black?logo=github)](https://github.com/mo7amed4522)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Mohamed-blue?logo=linkedin)](https://linkedin.com/in/khaled-mohamed-abdou-318378254)
-[![Email](https://img.shields.io/badge/Email-moaamed4522%40gmail.com-red?logo=gmail)](mailto:moaamed4522@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eng.khaled4522%40gmail.com-red?logo=gmail)](mailto:moaamed4522@gmail.com)
 
 ---
 
