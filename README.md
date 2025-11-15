@@ -110,7 +110,7 @@ Eye/
 **Khaled Mohamed**
 - 🔗 GitHub: [@mo7amed4522](https://github.com/mo7amed4522)
 - 💼 LinkedIn: [Backend Developer & Software Engineer](https://linkedin.com/in/khaled-mohamed-abdou-318378254)
-- 📧 Email: moaamed4522@gmail.com
+- 📧 Email: eng.khaled4522@gmail.com
 
 ### Expertise
 - Backend Development (Go, Node.js, Python)
